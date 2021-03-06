@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-
-- 🔭 I’m currently studying Data Science Engineering
+- 📓 I know Python 
+- 🔭 I’m currently learning java
 - 👯 I seek to collaborate in as many proyects as possible to learn as much as I can
 - 📫 meet me at sboteroarango@gmail.com
 
