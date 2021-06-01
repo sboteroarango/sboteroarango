@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 📓 I know Python 
-- 🔭 I’m currently learning java
+- 📓 I know Python and Java 
+- 🔭 I like challenges
 - 👯 I seek to collaborate in as many proyects as possible to learn as much as I can
 - 📫 meet me at sboteroarango@gmail.com
 
