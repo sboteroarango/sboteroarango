@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 📓 I know Python and Java
-- 🥇 I'm currently learning C# and R 
+- 📓 I know Python, Java and C#
+- 🥇 I'm currently learning Arduino
 - 🔭 I like challenges
 - 👯 I seek to collaborate in as many proyects as possible to learn as much as I can
 - 📫 meet me at sboteroarango@gmail.com
